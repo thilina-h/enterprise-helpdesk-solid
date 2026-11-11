@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="6.0">
+ <servlet><servlet-name>requests</servlet-name><servlet-class>edu.helpdesk.RequestServlet</servlet-class><load-on-startup>1</load-on-startup></servlet>
+ <servlet-mapping><servlet-name>requests</servlet-name><url-pattern>/request</url-pattern></servlet-mapping>
+ <servlet-mapping><servlet-name>requests</servlet-name><url-pattern>/requests</url-pattern></servlet-mapping>
+</web-app>

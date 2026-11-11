@@ -1,0 +1,16 @@
+edu/helpdesk/HtmlRenderer.class
+edu/helpdesk/HelpdeskRequest.class
+edu/helpdesk/PriorityRule.class
+edu/helpdesk/SimulatedSmsSender.class
+edu/helpdesk/RequestIdGenerator.class
+edu/helpdesk/InMemoryRequestRepository.class
+edu/helpdesk/BasicRequestValidator.class
+edu/helpdesk/RequestValidator.class
+edu/helpdesk/NotificationSender.class
+edu/helpdesk/ITPriorityRule.class
+edu/helpdesk/SimulatedEmailSender.class
+edu/helpdesk/ApplicationFactory.class
+edu/helpdesk/HRPriorityRule.class
+edu/helpdesk/RequestService.class
+edu/helpdesk/RequestRepository.class
+edu/helpdesk/RequestServlet.class
